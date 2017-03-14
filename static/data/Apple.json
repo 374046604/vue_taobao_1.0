@@ -1,0 +1,26 @@
+{
+  "name": "apple",
+  "type": "iPhone",
+  "about": [{
+      "id": 614,
+      "name": "苹果7",
+      "url": "about",
+      "imageUrl": "http://img.alicdn.com/bao/uploaded/i2/TB1NTBbQXXXXXc5XFXXXXXXXXXX_!!0-item_pic.jpg_640x640q50.jpg",
+      "weight": 1
+    },
+    {
+      "id": 613,
+      "name": "苹果6",
+      "url": "about",
+      "imageUrl": "http://img.alicdn.com/bao/uploaded/i2/TB1NTBbQXXXXXc5XFXXXXXXXXXX_!!0-item_pic.jpg_640x640q50.jpg",
+      "weight": 1
+    },
+    {
+      "id": 612,
+      "name": "苹果5",
+      "url": "about",
+      "imageUrl": "http://img.alicdn.com/bao/uploaded/i2/TB1NTBbQXXXXXc5XFXXXXXXXXXX_!!0-item_pic.jpg_640x640q50.jpg",
+      "weight": 1
+    }
+  ]
+}
